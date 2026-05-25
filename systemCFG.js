@@ -89,5 +89,3 @@ function convert(string) {
   return Buffer.from(hexa_string.join(""),"hex").toString(encoding);
   
 }
-
-
